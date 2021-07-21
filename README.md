@@ -1,0 +1,1 @@
+# cursor.js-all-photos
